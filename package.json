@@ -1,0 +1,27 @@
+{
+  "name": "@swimauger/portscan",
+  "version": "1.0.0",
+  "description": "A Node.js package for scanning ports",
+  "main": "./portscan.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swimauger/upnpjs.git"
+  },
+  "keywords": [
+    "Scan",
+    "Open",
+    "Close",
+    "Local",
+    "External",
+    "Port"
+  ],
+  "author": "Mark Auger",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/swimauger/upnpjs/issues"
+  },
+  "homepage": "https://github.com/swimauger/upnpjs#readme",
+  "dependencies": {
+    "ip": "^1.1.5"
+  }
+}
