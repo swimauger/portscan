@@ -5,7 +5,7 @@
   "main": "./portscan.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/swimauger/upnpjs.git"
+    "url": "git+https://github.com/swimauger/portscan.git"
   },
   "keywords": [
     "Scan",
@@ -18,9 +18,9 @@
   "author": "Mark Auger",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/swimauger/upnpjs/issues"
+    "url": "https://github.com/swimauger/portscan/issues"
   },
-  "homepage": "https://github.com/swimauger/upnpjs#readme",
+  "homepage": "https://github.com/swimauger/portscan#readme",
   "dependencies": {
     "ip": "^1.1.5"
   }
